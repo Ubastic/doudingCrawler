@@ -1,0 +1,9 @@
+{
+	"listUrls" : "http://www.docin.com/list.html",
+	"database" : {
+		"host"     : "localhost",
+		"user"     : "root",
+		"password" : "123456",
+		"dbname"   : "douding"
+	}
+} 
