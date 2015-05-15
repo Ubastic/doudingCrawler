@@ -3,6 +3,7 @@ a script fot crawlering docx from douding
 ## 主要需要两点注意的
 1. node爬虫的基本原理
 2. http请求
+
 ## node爬虫的基本原理
 * 使用superagent对目标网站进行请求，得到html
 * 利用cheerio模块对html进行解析
